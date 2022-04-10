@@ -1,2 +1,2 @@
 # music-store
-music store using Dart
+music store using Flutter
